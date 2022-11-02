@@ -1,6 +1,6 @@
 # Sid_Project_Insurance-_claims
 Data exploratory analysis and Hypothesis testing for Insurance claims data. The data is provided in two separate files claims.csv and customer_demographics.csv.
-Claims data includes claim ids, customer_ids, incident_causes, claim_date, claim_area, police_reports, types of claims, claim_amount, total_policy_claims and fradulent claims.
+Claims data includes claim ids, customer_ids, incident_causes, claim_date, claim_area, police_reports, types of claims, claim_amount, total_policy_claims and fraudulent claims.
 Customer demographics data includes gender, DOB,States, Contact and segments.
 After importing the data, I performed the Data Audit or EDA( Exploratory Data Analysis) for the datatypes as per their business significance
 Feeature selection has been performed to create some new columns like alert flags.
